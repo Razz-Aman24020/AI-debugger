@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Code Background Shield/Badge -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M54,18 L84,33 L84,68 L54,90 L24,68 L24,33 Z" />
+
+    <!-- Left Angle Bracket < -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M44,40 L32,54 L44,68" />
+
+    <!-- Right Angle Bracket > -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M64,40 L76,54 L64,68" />
+
+    <!-- Fix/Slash Tool representation -->
+    <path
+        android:strokeColor="#FF3D00"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M58,36 L50,72" />
+
+    <!-- AI Sparkle / Magic Star Top Right -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M78,28 Q83,28 83,23 Q83,28 88,28 Q83,28 83,33 Q83,28 78,28" />
+
+    <!-- AI Sparkle / Magic Star Bottom Left -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M20,68 Q24,68 24,64 Q24,68 28,68 Q24,68 24,72 Q24,68 20,68" />
+</vector>

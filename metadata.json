@@ -1,0 +1,6 @@
+{
+  "name": "AI Bug Fixer",
+  "description": "An offline-first AI-powered utility to identify, explain, and fix bugs in any coding language, leveraging Gemini AI and storing historical fixes locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
